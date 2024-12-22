@@ -118,253 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="bigcrosshair7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bigcrosshair7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="deepl_pro_trans_text_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\deepl pro trans text 23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bigcrosshair7OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bigcrosshair7OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="deepl_trans_text_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\deepl trans text 23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="brackets" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\brackets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="google_translate_trans_text_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\google translate trans text 23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cpma_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8_external_rotated_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icons8-external-rotated-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cpma_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8_internal_rotated_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icons8-internal-rotated-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cpma_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8_key_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icons8-key-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cpma_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lottiefiles_balls" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\lottiefiles-balls.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cpma_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mixkit_retro_game_notification_212" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mixkit-retro-game-notification-212.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="cpma_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cpma_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cpma_18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cpma_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cpma_19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair1OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair1OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair2OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair2OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair3OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair3OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair5circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair5circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair5circleOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair5circleOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair5OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair5OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair6circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair6circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair6circleOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair6circleOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair6OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair6OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair7circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair7circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair7circleOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair7circleOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="crosshair7OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\crosshair7OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fatcross" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fatcross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fatcrosscircle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fatcrosscircle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fatcrosscircleOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fatcrosscircleOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fatcrossOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fatcrossOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mediccross" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mediccross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mediccrossbig" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mediccrossbig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="opencross" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\opencross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="opencrossOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\opencrossOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PEARL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PEARL.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ql_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ql_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ql_9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="quarteredcircle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\quarteredcircle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="seeker" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\seeker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="seekerOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\seekerOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smallcrosshair7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smallcrosshair7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smallcrosshair7circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smallcrosshair7circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smallcrosshair7circleOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smallcrosshair7circleOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smallcrosshair7OL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smallcrosshair7OL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sniper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sniper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sniperbig" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sniperbig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sniperbigOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sniperbigOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="snipercircle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\snipercircle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="snipercircleOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\snipercircleOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sniperOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sniperOL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="test" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\test.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="thalashseeker" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\thalashseeker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tob_rocketcross" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tob_rocketcross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tob_wingscross" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tob_wingscross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tob_wingsdot" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tob_wingsdot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="vtfcrosspreview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vtfcrosspreview.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="vtfcrosspreviewX" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vtfcrosspreviewX.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="xhairshadowdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xhairshadowdefault.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="xhairshadowdots" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xhairshadowdots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="xhairshadowplus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xhairshadowplus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="xhairshadowpluss" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xhairshadowpluss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="xhairshadowrocketsthick" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xhairshadowrocketsthick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="yzwings" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\yzwings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mixkit_wrong_answer_fail_notification_946" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\mixkit-wrong-answer-fail-notification-946.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

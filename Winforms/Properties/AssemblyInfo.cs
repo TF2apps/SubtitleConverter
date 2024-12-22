@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Crosshair Switcher")]
-[assembly: AssemblyDescription("A tool to quickly switch between individual weapon, vtf crosshairs")]
+[assembly: AssemblyTitle("Subtitle Converter")]
+[assembly: AssemblyDescription("A tool to convert VTT subtitles using DeepL or Google's APIs")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("")]

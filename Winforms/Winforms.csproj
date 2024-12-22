@@ -63,7 +63,8 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>tf2_logo.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DeltaCompressionDotNet, Version=1.1.0.0, Culture=neutral, PublicKeyToken=1d14d6e5194e7f4a, processorArchitecture=MSIL">
@@ -86,6 +87,9 @@
     </Reference>
     <Reference Include="Mono.Cecil.Rocks, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL">
       <HintPath>..\packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="SharpCompress, Version=0.17.1.0, Culture=neutral, PublicKeyToken=afb0a02973931d96, processorArchitecture=MSIL">
       <HintPath>..\packages\SharpCompress.0.17.1\lib\net45\SharpCompress.dll</HintPath>
@@ -112,20 +116,22 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Stuff.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sentence.cs" />
+    <Compile Include="Subtitle.cs" />
+    <Compile Include="TranslatedSubtitle.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -142,255 +148,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\test.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\bigcrosshair7.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\bigcrosshair7OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\brackets.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_11.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_12.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_13.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_14.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_15.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_16.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_17.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_18.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cpma_19.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair1OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair2OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair3OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair5circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair5circleOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair5OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair6.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair6circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair6circleOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair6OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair7.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair7circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair7circleOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\crosshair7OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\fatcross.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\fatcrosscircle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\fatcrosscircleOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\fatcrossOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\mediccross.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\mediccrossbig.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\opencross.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\opencrossOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_7.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_8.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_9.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_10.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_11.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_12.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_13.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_14.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_15.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_16.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_17.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_18.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ql_19.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\quarteredcircle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\seeker.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\seekerOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\smallcrosshair7.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\smallcrosshair7circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\smallcrosshair7circleOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\smallcrosshair7OL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sniper.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sniperbig.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sniperbigOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\snipercircle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\snipercircleOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sniperOL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\thalashseeker.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tob_rocketcross.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tob_wingscross.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tob_wingsdot.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xhairshadowdefault.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xhairshadowdots.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xhairshadowplus.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xhairshadowpluss.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xhairshadowrocketsthick.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\yzwings.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\vtfcrosspreview.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\vtfcrosspreviewX.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\PEARL.wav" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
@@ -403,7 +160,18 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="tf2_logo.ico" />
+    <None Include="Resources\deepl pro trans text 23.png" />
+    <None Include="Resources\deepl trans text 23.png" />
+    <None Include="Resources\google translate trans text 23.png" />
+    <None Include="Resources\icons8-external-rotated-24.png" />
+    <None Include="Resources\icons8-internal-rotated-24.png" />
+    <None Include="Resources\icons8-key-32.png" />
+    <None Include="Resources\lottiefiles-balls.gif" />
+    <None Include="Resources\mixkit-retro-game-notification-212.wav" />
+    <None Include="Resources\mixkit-wrong-answer-fail-notification-946.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="deepl.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

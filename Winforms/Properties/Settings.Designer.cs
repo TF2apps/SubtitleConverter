@@ -34,5 +34,125 @@ namespace Winforms.Properties {
                 this["dir"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        public int inputLangDeepl {
+            get {
+                return ((int)(this["inputLangDeepl"]));
+            }
+            set {
+                this["inputLangDeepl"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("8")]
+        public int outputLangDeepl {
+            get {
+                return ((int)(this["outputLangDeepl"]));
+            }
+            set {
+                this["outputLangDeepl"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        public int inputLangDeeplPro {
+            get {
+                return ((int)(this["inputLangDeeplPro"]));
+            }
+            set {
+                this["inputLangDeeplPro"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("8")]
+        public int outputLangDeeplPro {
+            get {
+                return ((int)(this["outputLangDeeplPro"]));
+            }
+            set {
+                this["outputLangDeeplPro"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        public int inputLangGoogle {
+            get {
+                return ((int)(this["inputLangGoogle"]));
+            }
+            set {
+                this["inputLangGoogle"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        public int outputLangGoogle {
+            get {
+                return ((int)(this["outputLangGoogle"]));
+            }
+            set {
+                this["outputLangGoogle"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string apiKeyDeepl {
+            get {
+                return ((string)(this["apiKeyDeepl"]));
+            }
+            set {
+                this["apiKeyDeepl"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string apiKeyDeeplPro {
+            get {
+                return ((string)(this["apiKeyDeeplPro"]));
+            }
+            set {
+                this["apiKeyDeeplPro"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string apiKeyGoogle {
+            get {
+                return ((string)(this["apiKeyGoogle"]));
+            }
+            set {
+                this["apiKeyGoogle"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        public int tab {
+            get {
+                return ((int)(this["tab"]));
+            }
+            set {
+                this["tab"] = value;
+            }
+        }
     }
 }
