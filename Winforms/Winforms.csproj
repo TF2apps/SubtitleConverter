@@ -7,7 +7,7 @@
     <ProjectGuid>{205151C5-EC4E-4D62-B38A-D53181F00DA0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Winforms</RootNamespace>
-    <AssemblyName>Crosshair Switcher</AssemblyName>
+    <AssemblyName>Subtitle Converter</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
